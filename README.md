@@ -24,7 +24,7 @@ Install Node.js, Inquirer and Jest.
 
 ## Usage:
 
-Clone this repository, open index.js and in the terminal enter "node index.js". You will be prompted with questions regarding your project, once completed, a new README file will be produced in the root folder.
+Clone this repository, open index.js and in the terminal enter "node index.js". You will be prompted with questions regarding your team, once completed, a new HTML file will be produced in the root folder.
 
 ![Usage](https://github.com/utake6d6/9999999)
 
